@@ -1,0 +1,116 @@
+body {
+    background-image: url('https://efacility.jamb.gov.ng/assets/admin/pages/media/bg/4.jpg');
+    background-size: contain;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.header  {
+    display: inline;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(49, 48, 48);
+    line-height: 2.5em;
+    text-align: left;
+}
+
+h1 {
+    margin-right: 280px;
+    margin-left: 50px;
+    font-weight: 100;
+}
+
+form {
+    border: 4px solid;
+    border-radius: 2px;
+    text-align: center;
+    margin-left: 280px;
+    margin-right: 280px;
+    height: 890px;
+    border-style: outset;
+    width: 800px;
+}
+
+.new, #secret {
+    text-align: left;
+    width: 400px;
+    height: 35px;
+    border: none;
+    margin-right: 350px;
+    margin-left: 50px;
+}
+
+button {
+    border: none;
+    height: 40px;
+    background-color: rgb(10, 178, 245);
+    color: white;
+    width: 90px;
+}
+
+.back {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.verify {
+    text-align: left;
+    margin-left: 50px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 280px;
+    margin-left: 50px;
+}
+
+h2 {
+    margin-right: 490px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 400px;
+}
+
+a {
+    color: white;
+    font-weight: 300px;
+    text-decoration: none;
+}
+
+h5 {
+    font-size: 14px;
+    margin-right: 180px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    color: rgb(9, 39, 9);
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(7, 134, 184);
+    color: #F8F0E3;
+}
+
+span {
+    color: red;
+}
+
+h2, h5 {
+    line-height: 20px;
+}
